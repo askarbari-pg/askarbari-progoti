@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#14532d"/>
+  <circle cx="256" cy="256" r="178" fill="none" stroke="#d4af37" stroke-width="14"/>
+  <!-- সঞ্চয়ের পাত্র / কলস আকৃতি -->
+  <path d="M186 356c-14-40-22-72-22-100 0-16 4-30 12-42h160c8 12 12 26 12 42 0 28-8 60-22 100-6 18-24 28-70 28s-64-10-70-28z" fill="#d4af37"/>
+  <rect x="168" y="188" width="176" height="20" rx="10" fill="#f5d76e"/>
+  <!-- মুদ্রা -->
+  <circle cx="256" cy="140" r="42" fill="#f5d76e" stroke="#b8912a" stroke-width="6"/>
+  <text x="256" y="158" font-size="52" font-weight="bold" text-anchor="middle" fill="#14532d" font-family="sans-serif">৳</text>
+  <!-- পাতা (প্রগতি) -->
+  <path d="M256 300c-26-4-40-22-42-48 24 2 40 16 42 48zm0 0c2-32 18-46 42-48-2 26-16 44-42 48z" fill="#14532d" opacity="0.85"/>
+</svg>
